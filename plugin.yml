@@ -1,0 +1,8 @@
+name: Rocks
+version: 1.8
+main: io.WINGS.Rocks.Main
+description: Rocks
+load: POSTWORLD
+author: WINGS7
+website: null
+database: false
